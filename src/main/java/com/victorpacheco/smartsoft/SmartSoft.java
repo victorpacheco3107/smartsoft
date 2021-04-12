@@ -18,8 +18,8 @@ public class SmartSoft {
         String riddle3 = "?????";
         
         System.out.println("Solution for " + riddle1 + " is " + riddle.solution(riddle1));
-        System.out.println("Solution for " + riddle2 + " is " + riddle.solution(riddle2));
-        System.out.println("Solution for " + riddle3 + " is " + riddle.solution(riddle3));
+//        System.out.println("Solution for " + riddle2 + " is " + riddle.solution(riddle2));
+//        System.out.println("Solution for " + riddle3 + " is " + riddle.solution(riddle3));
     }
     
 }
